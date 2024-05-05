@@ -1,0 +1,2 @@
+rate-limit-service.minimum=1
+rate-limit-service.maximum=100
